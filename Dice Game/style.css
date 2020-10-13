@@ -1,0 +1,56 @@
+body{
+    font-family: cursive;
+    background-color: black;
+    color: chartreuse;
+    width: 80%;
+    margin: auto;
+}
+
+body:hover{
+    cursor: default;
+}
+
+h2{
+    color: yellow;
+}
+
+img{
+    background-color: red;
+    border-radius: 16%;
+    width: 100px;
+    height: 100px;
+}
+
+.Dice-para{
+    float: center;
+    padding-top: 20px;
+    color: white;
+    font-size: 30px;
+}
+
+.Dice-p2{
+    float: left;
+    padding-top: 110px;
+    padding-left: 200px;
+    font-size: 20px;
+}
+
+.Dice-p3{
+    float: right;
+    padding-top: 110px;
+    padding-right: 200px;
+    font-size: 20px;
+}
+
+.Dice-p1{
+    font-size: 20px;
+}
+
+.Dice{
+    text-align: center;
+    height: 600px;
+}
+
+.score{
+    color: white;
+}
