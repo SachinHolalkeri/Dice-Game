@@ -1,1 +1,1 @@
-# Dice-Game
+Simple Multiplier Dice Game
